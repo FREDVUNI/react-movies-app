@@ -2,6 +2,9 @@
 
 ![movie-wish-list](https://user-images.githubusercontent.com/41730664/208955817-38a5f4c9-e351-4534-b1bc-0a6fd9504ace.png)
 
+### How it works
+
+Go to add movie, search for the movie and either add it to the wish or watched list.
 
 # Getting Started with Create React App
 
