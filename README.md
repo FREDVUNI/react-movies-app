@@ -1,3 +1,8 @@
+### screenshot
+
+![movie-wish-list](https://user-images.githubusercontent.com/41730664/208955817-38a5f4c9-e351-4534-b1bc-0a6fd9504ace.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
